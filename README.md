@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lnhi.nguyen.vn@gmail.com**
 
-- 📄 My Resume (to be updated regularly) [https://drive.google.com/file/d/1QiVu_G2By3rR3969AukySqxqijIu6Fs1/view?usp=sharing](https://drive.google.com/file/d/1QiVu_G2By3rR3969AukySqxqijIu6Fs1/view?usp=sharing)
+- 📄 My Resume (to be updated regularly) [https://docs.google.com/document/d/17wMSOU1h08GzXxrhySNFoLdc5Uvt1B19oCEMcmLg1J0/edit?usp=sharing](https://docs.google.com/document/d/17wMSOU1h08GzXxrhySNFoLdc5Uvt1B19oCEMcmLg1J0/edit?usp=sharing)
 
 - ⚡ Fun fact **I can speak Vietnamese (native), English (Full Professional), and Mandarin (Limited Work Professional)**
 
