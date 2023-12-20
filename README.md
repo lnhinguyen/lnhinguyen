@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nhi Nguyen</h1>
 <h3 align="center">A Data Science & Policy Studies student looking for Data Analyst internship.</h3>
 
-- 🔭 My projects are mostly on **Business Analysis, APIs**
+- 🔭 My projects are mostly on **Business Analysis, APIs, Data Analytics**
 
 - 🤝 I’m looking for: **Data Science / Data Analysis Internship**
 
@@ -10,11 +10,11 @@
 
 - 🌱 I'm currently learning: **Statistics, Business Analysis, Machine Learning**
 
-- 📫 How to reach me **lnhi.nguyen.vn@gmail.com**
+- 📫 How to reach me **lnhi.nguyen.vn@gmail.com** or **Linkedin: https://www.linkedin.com/in/lnhi-nguyen/** 
 
-- 📄 My Resume (to be updated regularly) [https://docs.google.com/document/d/17wMSOU1h08GzXxrhySNFoLdc5Uvt1B19oCEMcmLg1J0/edit?usp=sharing](https://docs.google.com/document/d/17wMSOU1h08GzXxrhySNFoLdc5Uvt1B19oCEMcmLg1J0/edit?usp=sharing)
+- 📄 My Resume (to be updated regularly) [https://drive.google.com/file/d/1XzfhTkuQeZKy9bbM4vhxx_FhB6oq8fJA/view?usp=sharing](https://drive.google.com/file/d/1XzfhTkuQeZKy9bbM4vhxx_FhB6oq8fJA/view?usp=sharing)
 
-- ⚡ Fun fact **I can speak Vietnamese (native), English (Full Professional), and Mandarin (Limited Work Professional)**
+- ⚡ Fun fact **I can speak Vietnamese (native), English (Full Professional), Mandarin (Limited Work Professional), and Cantonese (Beginner)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
