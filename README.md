@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nhi Nguyen</h1>
-<h3 align="center">A Data Science & Policy Studies student looking for Data Analyst internship.</h3>
+<h3 align="center">A Data Science & Policy Studies student looking for Data Analytíc / Data Science / Machine Learning Summer 2025 internship and Graduate job from January 2026.</h3>
 
 - 🔭 My projects are mostly on **Machine Learning Classification/Prediction models, Business Analysis, APIs, Data Analytics**
 
@@ -14,7 +14,7 @@
 
 - 📄 My Resume (to be updated regularly) https://drive.google.com/file/d/1DqDiwW688Jwv0PW3mGHRSBOyIQdHO3gI/view?usp=drive_link
 
-- ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Limited Work Professional), and Cantonese (Beginner)**
+- ⚡ Language: **Vietnamese (native), English (Proficient), Mandarin (Proficient), and Cantonese (Beginner)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
