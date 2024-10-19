@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Nhi Nguyen</h1>
 <h3 align="center">A Data Science & Policy Studies student looking for Data Analyst internship.</h3>
 
-- 🔭 My projects are mostly on **Business Analysis, APIs, Data Analytics**
+- 🔭 My projects are mostly on **Machine Learning Classification/Prediction models, Business Analysis, APIs, Data Analytics**
 
-- 🤝 I’m looking for: **Data Science / Data Analysis Internship**
+- 🤝 I’m looking for: **Data Science / Data Analytics / Machine Learning Internship**
 
 - 🌱 My technical skills include: **Python, SQL, PowerBI, SPSS**
 
-- 🌱 I'm currently learning: **Statistics, Business Analysis, Machine Learning**
+- 🌱 I'm currently learning: **Data Science, Machine Learning, Statistics, Business Analytics**
 
 - 📫 How to reach me **lnhi.nguyen.vn@gmail.com** or **Linkedin: https://www.linkedin.com/in/lnhi-nguyen/** 
 
-- 📄 My Resume (to be updated regularly) https://drive.google.com/file/d/1zz5if5IuQ_pRyXzICiXCUzmL_xZ5Za2g/view?usp=sharing
+- 📄 My Resume (to be updated regularly) https://drive.google.com/file/d/1DqDiwW688Jwv0PW3mGHRSBOyIQdHO3gI/view?usp=drive_link
 
 - ⚡ Language: **Vietnamese (native), English (Full Professional), Mandarin (Limited Work Professional), and Cantonese (Beginner)**
 
